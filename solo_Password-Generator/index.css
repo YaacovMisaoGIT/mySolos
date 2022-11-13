@@ -1,0 +1,116 @@
+body {
+    background-color: #1F2937;
+    display: flex;
+    flex-direction: column;
+     margin-left: 30px;;
+     
+}
+.mydiv{
+
+   
+}
+h1 {
+font-family: Karla;
+font-style: ExtraBold;
+font-size: 40px;
+line-height: 40px;
+line-height: 86%;
+text-align: Left;
+ 
+} 
+#random{
+    color:  #4ADF86;
+   
+}
+h1{
+    color: white;
+    margin-left: 0px;;
+}
+
+p {
+    font-family: 'Inter', sans-serif;
+    color:rgb(211, 196, 196);
+    font-weight: bold;
+    /*display: inline-block;*/
+    display: flex;
+    font-size:small;
+}
+.Never{
+  
+}
+  
+button{
+    background-color: #10B981;
+    color: white;
+    border: none;
+    padding: 9px 17px 9px 15px;
+    border-radius: 8px;
+    font-size:small
+    
+}
+button:hover{
+    background: black;
+}
+.generate-btn{
+    width: 160px; 
+    cursor: pointer;
+}
+ 
+.stroke{
+   color: #5e8ccd;
+   
+   Width: 1px;
+   width: 200px;;
+}
+.password1{
+    background: #d5d9de;
+    border-radius: 1px;
+    height: 30px;
+    width: 200px;
+}
+.password2{
+    background: #b9c8dd;
+    border-radius: 1px;
+    height: 30px;
+    width: 200px;
+    margin-left:15px;
+}
+.password-box{
+    display: flex;
+    margin-bottom: 5px;
+}
+#pwd1{
+    margin-right: 2px;
+    background: #273549;
+    color:#10B981 ;
+    Width: 170px;
+    Height: 20px;
+}
+#pwd21{
+    margin-left:  3px;
+    background: #273549;
+    color:#10B981 ;
+    Width: 170px;
+    Height: 20px;
+}
+
+/*input{
+    position: relative;
+    width: 100%;
+    height: 60px;
+    border: none;
+    margin: 15px 0  20px;
+    background: transparent;
+    outline: none;
+    padding: 0 20px;
+    font-size: 24px;
+    letter-spacing: 4px;
+    box-sizing: border-box;
+    border-radius: 8px;
+
+}
+*/
+
+input{
+    margin-top: 0px;
+}

@@ -1,0 +1,103 @@
+body{
+    text-align: center;
+    background: #1F2937;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#container{
+    background-color: #6943FF;
+    color:antiquewhite;
+    Width: 550px;
+    Height: 285px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 40px;
+    margin-bottom:20px;
+}
+
+h3{
+    margin-top: 40px;
+}
+h2{
+    color: #CCC1FF;  
+}
+input{
+    margin-left: 255px;
+    width: 59px;
+    border: none;
+    height: 40px;
+    margin-top: 20px;
+    margin-bottom:20px;
+    text-align:center;
+    border: 2px solid #B295FF;
+    border-radius: 2px;
+    
+}
+button{
+    width: 100px;
+    margin-left:  230px;
+    margin-top: 10px;
+    height: 35px ;
+    Font-family: Inter;
+    Font-style: Medium;
+    Font-size: 16px;
+    Line-height: 24px;
+    Line-height: 124%;
+    Vertical-align: Top;
+ 
+}
+.container2{
+  padding-left: 10px; 
+  font-size: large;
+  font-weight:bold;
+  color:  #FFFFFF;
+}
+h2{
+    padding-top:10px ;
+}
+.Length-div{
+    background-color: #273549;
+    margin-bottom: 5px;
+    Width: 500px;
+    Height: 108.57px;
+    Top : 585px;
+    Left: 25px ;
+    Gap: 18.72px;
+    margin: auto 21px;
+}
+.Volume-div{
+    background-color: #273549;
+    margin-top: 5px;
+    Width: 500px;
+    Height: 108.57px;
+    Top : 585px;
+    Left: 25px ;
+    Gap: 18.72px;
+    margin: auto 21px;
+} 
+.Mass-div{
+    background-color: #273549;
+    margin-top: 5px;
+    Width: 500px;
+    Height: 108.57px;
+    Top : 585px;
+    Left: 25px ;
+    Gap: 18.72px;
+    margin: auto 21px;
+}
+#input-el{
+Font-style: Extra Bold;
+Font-size: 33px ;
+Line-height: 24.39px;
+Line-height: 15%;
+Vertical-align: Top;
+
+
+}
+ 
+ 
+#input-el{
+    color:#FFFFFF;
+    background-color: #6943FF;
+}

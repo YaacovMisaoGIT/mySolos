@@ -1,0 +1,80 @@
+/**
+Palette: https://scrimba.com/links/hometown-palette
+RED: #E63946
+LIGHT: #F1FAEE
+AQUA: #A8DADC
+LIGHT BLUE: #457B9D
+DARK BLUE: #1D3557
+
+*/
+  
+.cls1{
+    background-color: #6C8EAD;
+    padding: 5px 10px;
+   } 
+   h3{
+    font-family: 'Rubik Moonrocks', cursive;
+   }
+
+body {
+    margin: 0;
+    text-align: center;
+ 
+    
+}
+
+
+.top{
+background: url("https://media.istockphoto.com/photos/vail-colorado-usa-downtown-drone-mountains-aerial-picture-id1292267805?b=1&k=20&m=1292267805&s=170667a&w=0&h=5uIAD2aOZMUd1Dpn7Vo-96y8g0DyVvImMjURvGe1RKg=");    
+  display: flex;
+  flex-direction: column; 
+  align-items: center;
+  background-size:cover;
+  background-position:  100%;
+  margin: 5px 5px ;
+}
+
+.cls2{
+     background-color: #6C8EAD;
+ padding: 5px 5px;
+ margin: 50px;
+ font-size: 20px;
+}
+ 
+ .brdr{
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+ }
+.bottom{
+    display: flex;
+    flex-direction: row;
+}
+
+ .avatar {
+    width: 150px;
+    
+}
+.span{
+    border-bottom: rgb(11, 1, 1);
+}
+
+.card {
+    width: 400px;
+    /* 
+    Challenge:
+    Replace the two margin properties with a 
+    single margin shorthand.
+    */
+    border: 2px dotted  blue;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ddebf8;
+    color: #2b2839;
+    border-bottom: 6px solid #d8cefe;
+}
+ 

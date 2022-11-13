@@ -1,0 +1,76 @@
+* {
+  box-sizing: border-box;
+}
+nav {
+  
+    
+}
+.nav--logo{
+  height: 2px;
+  width: 30px;
+  margin-left: 213px;
+  margin-top: 20px;
+  border-radius: 0px;
+  
+}
+nav > p{
+  color: #FFFFFF;
+   padding-top: 8px;
+   margin-left: 3px
+}   
+#navnav{
+  height: 70px;
+  background: #F55A5A;
+  display: flex;
+  flex-direction:  row;
+  
+}
+.card--icon{
+    height: 168px;
+    width: 125px;
+    margin-left: 40px;
+    margin-top: 45px;
+    border-radius: 5px;
+
+} 
+.card--stats{
+        margin-top: 45px;
+        margin-left: 19px;
+}
+a{
+    color: #918E9B;
+    margin-left: 12px;
+}
+.card--mapicon{
+    height: 12px;
+    width: 10px;
+    left: 184px;
+    top: 120px;
+    border-radius: 0px;
+    margin-right: 4px;
+
+}
+
+.card{
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+}
+.paragraph{
+    Font-family: Inter;
+Font-style: Regular;
+Font-size: 13.24px;
+Line-height: 15px;
+Line-height: 150%;
+Vertical-align: Top;
+}
+h3{
+    Font-family: Inter;
+    Font-style: Bold;
+    Font-size: 30px;
+    margin-top: 3px;
+    margin-bottom: 15px;
+    Vertical-align: Top;
+}
+
+

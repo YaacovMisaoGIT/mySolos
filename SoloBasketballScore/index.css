@@ -1,0 +1,80 @@
+
+body {
+    margin: 0px;
+    size: 50px;
+    color: white;
+    background-color: #19244D;
+}
+@font-face {
+    font-family: CursedTimerULiL;
+    src: url("./Cursed_Timer_ULiL/CursedTimerULiL.ttf");
+    
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    width: 1200px;
+    border: 3px solid  white;
+    border-radius: 10px;
+    width: 600px;
+    padding: 0px 0px 50px 0px;
+}
+h3{
+font-family: Verdana;
+font-style: Bold;
+font-size: 40px;
+line-height: 35.89px;
+margin-left: 40px;
+
+}
+button {
+    background: none; 
+    margin-left: 7px;
+    font-family: CursedTimerULiL;
+    color: white;
+    padding: 7px 10px ;
+    border: 1px solid  white;
+    border-radius: 5px;
+    
+    
+}
+button:hover {
+    color: brown;
+  }
+h2 {
+    background: #0a0001;
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    padding: 10px 0px 0px 70px;
+    font-family: CursedTimerULiL;
+}
+ 
+
+.myRedo{
+     
+}
+.home-btn1{
+    margin-left: 50px;
+
+}
+
+.home-btn2{
+    margin-left: 0px;
+}
+.guest-btn1{
+    margin-left: 50px;
+    margin-right: 0px;
+
+}
+
+.guest-btn2{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.guest-btn3{
+    margin-left: 0px;
+  
+}
